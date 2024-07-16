@@ -1,0 +1,19 @@
+{
+  "name": "sol_light_multisender",
+  "version": "1.0.0",
+  "description": "Solana Token Multisender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.30.1",
+    "@lightprotocol/compressed-token": "^0.3.4",
+    "@lightprotocol/stateless.js": "^0.4.4",
+    "@lightprotocol/zk-compression-cli": "^0.4.7",
+    "@solana/web3.js": "^1.95.0",
+    "typescript": "^5.5.3"
+  }
+}
